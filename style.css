@@ -1,0 +1,7 @@
+body { font-family: system-ui, Arial; padding: 24px; background:#f5f7fb; color:#111; }
+main { max-width:900px; margin:0 auto; }
+#dropzone { border:2px dashed #bbb; padding:24px; text-align:center; background:white; cursor:pointer; border-radius:8px; }
+#dropzone.drag { border-color:#4a90e2; box-shadow: 0 2px 8px rgba(74,144,226,.08); }
+#status { margin-top:12px; }
+pre { white-space:pre-wrap; background:#fff; padding:12px; border-radius:6px; border:1px solid #eee; max-height:300px; overflow:auto; }
+#suggestions li { margin-bottom:8px; background:#fff; padding:10px; border-radius:6px; border:1px solid #eee; }
